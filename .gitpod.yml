@@ -1,2 +1,2 @@
 tasks:
-  - command: sudo docker-up & docker-compose up
+  - command: sudo docker-up & docker-compose up -d
